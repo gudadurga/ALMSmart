@@ -1,0 +1,19 @@
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\obj\Debug\HallMarkTest.csprojResolveAssemblyReference.cache
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\HallMarkTest.dll.config
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\HallMarkTest.dll
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\HallMarkTest.pdb
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.dll
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.xml
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\obj\Debug\HallMarkTest.dll
+D:\Ekta Bainsla\MS UNIT Testing\WingtipToys\HallMarkTest\obj\Debug\HallMarkTest.pdb
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\HallMarkTest.dll.config
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\HallMarkTest.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\HallMarkTest.pdb
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.xml
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\WK-Ovid\WingtipToys\HallMarkTest\obj\Debug\HallMarkTest.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\obj\Debug\HallMarkTest.pdb

@@ -1,0 +1,14 @@
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\UnitTestProject1.dll.config
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\UnitTestProject1.dll
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\EntityFramework.dll
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\EntityFramework.SqlServer.dll
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\HallMarkTest.dll
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\EntityFramework.xml
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\EntityFramework.SqlServer.xml
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\HallMarkTest.pdb
+D:\WK-Ovid\WingtipToys\UnitTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\WK-Ovid\WingtipToys\UnitTestProject1\obj\Release\UnitTestHallMark.csprojResolveAssemblyReference.cache
+D:\WK-Ovid\WingtipToys\UnitTestProject1\obj\Release\UnitTestProject1.dll
+D:\WK-Ovid\WingtipToys\UnitTestProject1\obj\Release\UnitTestProject1.pdb

@@ -1,0 +1,9 @@
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\HallMarkTest.dll.config
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\HallMarkTest.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\HallMarkTest.pdb
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\EntityFramework.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\EntityFramework.SqlServer.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\EntityFramework.xml
+D:\WK-Ovid\WingtipToys\HallMarkTest\bin\Release\EntityFramework.SqlServer.xml
+D:\WK-Ovid\WingtipToys\HallMarkTest\obj\Release\HallMarkTest.dll
+D:\WK-Ovid\WingtipToys\HallMarkTest\obj\Release\HallMarkTest.pdb
